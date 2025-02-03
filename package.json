@@ -1,7 +1,7 @@
 {
-  "name": "assignment-b2-the-quiz",
+  "name": "quiz",
   "version": "1.1.2",
-  "description": "1DV025 - Examination Assignment Module B - The quiz",
+  "description": " Module B - The quiz",
   "type": "module",
   "browser": "src/js/index.js",
   "scripts": {
@@ -12,9 +12,6 @@
     "lint:fix": "npx eslint ./src --fix || exit 0"
   },
   "contributors": [
-    "Johan Leitet <johan.leitet@lnu.se>",
-    "Mats Loock <mats.loock@lnu.se>",
-    "// TODO: YOUR NAME <YOUR EMAIL>"
   ],
   "license": "MIT",
   "private": true,
