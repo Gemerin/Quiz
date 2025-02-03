@@ -1,0 +1,18 @@
+body {
+	background: url(../images/background.jpg) no-repeat center center;
+}
+
+#container {
+	background-color: rgba(226, 244, 249, 0.866);
+	width: 30%;
+	height: 100%;
+	padding: 5%;
+	margin: 0 auto;
+	margin-top: 5%;
+	border-radius: 10px;
+	text-align: center;
+}
+
+#highscore-list {
+	display: none;
+}
